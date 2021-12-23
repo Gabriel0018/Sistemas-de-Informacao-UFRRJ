@@ -1,4 +1,4 @@
-## Sistemas de Informação - Universidade Federal Rural do Rio de Janeiro - UFRRJ
+## Sistemas de Informação - Universidade Federal Rural do Rio de Janeiro
 **Repositório para agregar projetos e códigos desenvolvidos ao longo da formação acadêmica**
 
 <div> 

@@ -5,7 +5,7 @@
 
 [Linguagem de Programação 2 - C](https://github.com/Gabriel0018/Sistemas-de-Informacao-UFRRJ/tree/Linguagem-de-Programa%C3%A7%C3%A3o-2)
 
-[Arquitetura de Computadores - Assembly](https://https://github.com/Gabriel0018/Linguagem-Assembly-Processador-LEG)
+[Arquitetura de Computadores - Assembly](https://github.com/Gabriel0018/Linguagem-Assembly-Processador-LEG)
 ##
 
 <div> 
